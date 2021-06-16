@@ -1,0 +1,14 @@
+.gambar{
+	height: 500px;
+	width: 500px;
+}
+.gambar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+   background-image: url("4eaf8fc272d7ac046d63bae9fb6a43a9.jpg");
+   background-repeat: no-repeat;
+   background-size:cover
+}
